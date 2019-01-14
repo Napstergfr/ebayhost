@@ -5,6 +5,7 @@ body{
 }
 .gh-w, .tb_v4bc, .stBadge{
 	background:#fff;
+	display: none;
 }
 .gsp-wrapper{
 
