@@ -3,6 +3,9 @@ body{
 	font-family: 'Lato', sans-serif;
 	padding: 5px;
 }
+.gh-w, .tb_v4bc, .stBadge{
+	background:#eee;
+}
 .gsp-wrapper{
 
 }
