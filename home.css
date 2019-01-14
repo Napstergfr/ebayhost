@@ -8,6 +8,9 @@ body{
 .gsp-wrapper{
 
 }
+.gsp-wrapper header{
+	height: 300px;
+}
 .gsp-wrapper header h1{
 	text-align: center;
 	background: red;
