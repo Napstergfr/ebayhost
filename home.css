@@ -6,7 +6,13 @@ body{
 .gsp-wrapper{
 
 }
-.r3, .v4stabl{
+.v4stabl{
+	font-weight: bold;
+}
+.v4stabl a{
+	color: green;
+}
+.r3{
 	background:#fff;
 }
 .gsp-wrapper header{
