@@ -2,10 +2,6 @@ body{
 	background: url('transp_bg.png');
 	padding: 30px;
 }
-h1{
-	background: blue;
-	color: red;
-}
 .v4sbox{
 	background: black !important;
 }
@@ -15,4 +11,5 @@ h1{
 .gsp-wrapper header h1{
 	text-align: center;
 	background: red;
+	color: white;
 }
