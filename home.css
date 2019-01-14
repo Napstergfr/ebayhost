@@ -8,13 +8,14 @@ body{
 }
 .v4stabl{
 	font-weight: bold;
-	width: 300px;
+	width: 200px;
 	float: right;
-	background:#666;
+	background:#777;
 	border-radius: 8px;
+	padding: 10px 0px;
 }
 .v4stabl a{
-	color: green;
+	color: #fff;
 }
 .r3{
 	background:#fff;
