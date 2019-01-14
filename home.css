@@ -8,6 +8,10 @@ body{
 }
 .v4stabl{
 	font-weight: bold;
+	width: 300px;
+	float: right;
+	background:#666;
+	border-radius: 8px;
 }
 .v4stabl a{
 	color: green;
