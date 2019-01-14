@@ -10,6 +10,7 @@ body{
 }
 .gsp-wrapper header{
 	height: 300px;
+	background: #555;
 }
 .gsp-wrapper header h1{
 	text-align: center;
