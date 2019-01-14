@@ -6,6 +6,9 @@ body{
 .gsp-wrapper{
 
 }
+table{
+	background:#fff;
+}
 .gsp-wrapper header{
 	background: #555;
 	position: relative;
