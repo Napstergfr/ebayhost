@@ -1,6 +1,7 @@
 body{
-	background: url('transp_bg.png');
+	background: url('transp_bg.jpg');
 	font-family: 'Lato', sans-serif;
+	padding: 5px;
 }
 .gsp-wrapper{
 
