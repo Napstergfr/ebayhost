@@ -9,3 +9,10 @@ h1{
 .v4sbox{
 	background: black !important;
 }
+.gsp-wrapper{
+
+}
+.gsp-wrapper header h1{
+	text-align: center;
+	background: red;
+}
