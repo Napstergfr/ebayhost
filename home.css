@@ -129,7 +129,6 @@ img {
 
 .caption {
   position: absolute;
-  top: 50%;
   left: 8rem;
   z-index: 9;
   transform: translateY(-50%);
@@ -192,7 +191,7 @@ img {
 }
 
 .left-col, .right-col {
-  width: 100%;
+  width: 90%;
   box-sizing: border-box;
   height: calc(100% - 4rem);
   overflow: hidden;
