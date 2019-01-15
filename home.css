@@ -15,11 +15,8 @@ table, td, tr{
 }
 .v4stabl{
 	font-weight: bold;
-	width: 200px;
-	float: right;
+	text-align: center;
 	background:#777;
-	border-radius: 8px;
-	padding:10px;
 }
 .image{
 	-webkit-box-shadow: 0px 2px 16px -4px rgba(158,156,158,1);
