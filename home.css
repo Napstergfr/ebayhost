@@ -12,7 +12,7 @@ body{
 }
 table, td, tr{
 	border:none !important;
-	border-radius: 0px;
+
 }
 .v4stabl{
 	font-weight: bold;
@@ -32,6 +32,7 @@ table, td, tr{
 }
 .r3{
 	background:#fff;
+	border-radius: 0px;
 }
 .gsp-wrapper header{
 	background: #555;
