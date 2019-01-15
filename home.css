@@ -12,11 +12,12 @@ body{
 }
 table, td, tr{
 	border:none !important;
+	border-radius: 0px;
 }
 .v4stabl{
 	font-weight: bold;
 	text-align: center;
-	background:#777;
+	background:#111;
 }
 .image{
 	-webkit-box-shadow: 0px 2px 16px -4px rgba(158,156,158,1);
