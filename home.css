@@ -306,6 +306,6 @@ img {
 	text-transform: uppercase;
 	text-decoration: none;
 }
-.card-title:hover{
+a:hover{
 	text-decoration: none;
 }
