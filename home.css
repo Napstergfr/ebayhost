@@ -314,4 +314,6 @@ a:hover{
 	position: absolute;
 	bottom: 0px;
 	background:#111;
+	height: 200px;
+	clear: both;
 }
