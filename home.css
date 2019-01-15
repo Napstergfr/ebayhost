@@ -18,6 +18,7 @@ table, td, tr{
 	font-weight: bold;
 	text-align: center;
 	background:#111;
+	color: #fff;
 }
 .image{
 	-webkit-box-shadow: 0px 2px 16px -4px rgba(158,156,158,1);
