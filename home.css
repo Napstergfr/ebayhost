@@ -274,6 +274,7 @@ img {
   opacity: 0;
   transition: .25s ease opacity,.25s ease transform;
   z-index: 99;
+  top:50%;
 }
 .nav .slide-up:hover, .nav .slide-down:hover {
   opacity: 1;
