@@ -309,11 +309,3 @@ img {
 a:hover{
 	text-decoration: none;
 }
-.x-foot-wrap{
-	width: 100%;
-	position: absolute;
-	bottom: 0px;
-	background:#111;
-	height: 200px;
-	clear: both;
-}
