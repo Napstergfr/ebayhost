@@ -32,7 +32,8 @@ table, td, tr{
 }
 .r3{
 	background:#fff;
-	border-radius: 0px;
+	border-radius: 0px !important;
+	border:none;
 }
 .gsp-wrapper header{
 	background: #555;
