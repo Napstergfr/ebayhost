@@ -27,6 +27,12 @@ table, td, tr{
 	border-radius: 5px;
 	padding: 10px;
 }
+.r3_t b, .r3_t i, .r3_bl b, .r3_bl i {
+	display: none;
+}
+.r3_t, .r3_t b, .r3_bl, .r3_bl b {
+	display: none;
+}
 .v4stabl a{
 	color: #fff;
 }
