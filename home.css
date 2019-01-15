@@ -128,7 +128,7 @@ img {
 }
 
 .caption {
-	top: 35%;
+  top: 35%;
   position: absolute;
   left: 8rem;
   z-index: 9;
@@ -299,4 +299,10 @@ img {
   top: 50%;
   right: 0;
   transform: translateX(100%);
+}
+.card-title{
+	color: #fff;
+	font-size: 25px;
+	text-transform: uppercase;
+	text-decoration: none;
 }
