@@ -309,3 +309,8 @@ img {
 a:hover{
 	text-decoration: none;
 }
+.footer{
+  width: 100%;
+  display: block;
+  position: relative;
+}
