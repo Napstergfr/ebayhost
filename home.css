@@ -312,5 +312,9 @@ a:hover{
 .footer{
   width: 100%;
   display: block;
-  position: relative;
+  position: absolute;
+  height: 100px;
+  background: #222;
+  bottom: 0;
+  margin-top: 100%;
 }
