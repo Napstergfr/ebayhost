@@ -310,11 +310,3 @@ img {
 a:hover{
 	text-decoration: none;
 }
-.footer{
-  display: block;
-  position: absolute;
-  height: 100px;
-  background: #222;
-  top:100%;
-  clear: both;
-}
