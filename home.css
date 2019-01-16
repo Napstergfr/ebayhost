@@ -97,6 +97,7 @@ table, td, tr{
 	width: 100%;
 	display: block;
 	background:#111;
+  position: fixed;
 }
 .gsp-wrapper nav ul{
 	padding: 0px;
