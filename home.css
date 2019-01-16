@@ -5,7 +5,7 @@ body{
 }
 .gh-w, .tb_v4bc, .stBadge{
 	background:#fff;
-	display: none;
+	/*display: none;*/
 }
 .gsp-wrapper{
 
@@ -44,7 +44,7 @@ table, td, tr{
 }
 .gsp-wrapper header{
 	background: #555;
-	position: fixed;
+	position: relative;
 	height: 80px;
 	padding:10px 0px 20px 0px;
 }
@@ -97,7 +97,6 @@ table, td, tr{
 	width: 100%;
 	display: block;
 	background:#111;
-  position: fixed;
 }
 .gsp-wrapper nav ul{
 	padding: 0px;
