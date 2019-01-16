@@ -44,7 +44,7 @@ table, td, tr{
 }
 .gsp-wrapper header{
 	background: #555;
-	position: relative;
+	position: fixed;
 	height: 80px;
 	padding:10px 0px 20px 0px;
 }
