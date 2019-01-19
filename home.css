@@ -358,4 +358,8 @@ marquee>a, marquee>a:hover{color:#000; text-decoration:none;}
 }
 .featured{
   background:#6a5e50;
+  padding: 10px;
+}
+.featured h2{
+  color: #fff;
 }
