@@ -100,7 +100,7 @@ table, td, tr{
   font-size: 14px;
   letter-spacing: 1.5px;
 }
-.lev1{
+.lev1 li{
   list-style-type: disc !important;
 }
 .lev1 li a{
