@@ -6,7 +6,7 @@ body{
 }
 .gh-w, .tb_v4bc, .stBadge{
 	background:#fff;
-	/*display: none;*/
+	display: none;
 }
 .gsp-wrapper{
   padding: 0px;
@@ -100,7 +100,7 @@ table, td, tr{
   font-size: 14px;
   letter-spacing: 1.5px;
 }
-.v4acp_mid ul{
+.v4acp_mid ul li{
   list-style-type: disc !important;
 }
 .v4acp_mid ul li a{
