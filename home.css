@@ -180,11 +180,6 @@ img {
   display: flex;
   position: relative;
 }
-.slide{
-    -webkit-box-shadow: 0px 0px 41px 0px rgba(0,0,0,0.65);
--moz-box-shadow: 0px 0px 41px 0px rgba(0,0,0,0.65);
-box-shadow: 0px 0px 41px 0px rgba(0,0,0,0.65);
-}
 .left-col, .right-col {
   width: 100%;
   box-sizing: border-box;
@@ -229,13 +224,13 @@ box-shadow: 0px 0px 41px 0px rgba(0,0,0,0.65);
   transform: translateY(-100%);
   z-index: 3;
   opacity: 1;
-  clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
+/*  clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);*/
 }
 .left-col .slide.current {
   opacity: 1;
   transform: translateY(0) scale(1.25);
   z-index: 2;
-  clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+/*  clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);*/
 }
 
 .right-col {
