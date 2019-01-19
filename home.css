@@ -356,3 +356,6 @@ marquee>a, marquee>a:hover{color:#000; text-decoration:none;}
 .producttitle .btn{
     background-color:#EDEEF0;
 }
+.featured{
+  background:#6a5e50;
+}
