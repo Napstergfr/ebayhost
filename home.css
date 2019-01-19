@@ -108,14 +108,13 @@ table, td, tr{
 }
 .ttl{
    font-family: 'Lato', sans-serif;
-  text-transform: uppercase;
-  font-weight: bold;
-   letter-spacing: 1px;
+   text-transform: uppercase;
+   font-weight: bold;
 }
 .all_cats{
   font-family: 'Lato', sans-serif;
   font-weight: bold;
-   letter-spacing: 1px;
+  letter-spacing: 1px;
 }
 .link{
    font-family: 'Lato', sans-serif;
