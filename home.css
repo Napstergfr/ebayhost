@@ -9,7 +9,7 @@ body{
 	/*display: none;*/
 }
 .gsp-wrapper{
-
+  padding: 0px;
 }
 table, td, tr{
 	border:none !important;
