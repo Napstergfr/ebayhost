@@ -100,8 +100,27 @@ table, td, tr{
   font-size: 14px;
   letter-spacing: 1.5px;
 }
-.lev1 li{
-  list-style-type: disc !important;
+.v4acp_head{
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+   letter-spacing: 1px;
+}
+.ttl{
+   font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+   letter-spacing: 1px;
+}
+.all_cats{
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+   letter-spacing: 1px;
+}
+.link{
+   font-family: 'Lato', sans-serif;
+  font-weight: bold;
+   letter-spacing: 1px;
 }
 .lev1 li a{
   color: #111;
@@ -109,7 +128,7 @@ table, td, tr{
   font-size: 10px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 * {
