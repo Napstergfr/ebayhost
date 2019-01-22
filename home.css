@@ -43,7 +43,7 @@ table, td, tr{
 	color: #fff;
   height: 33px;
   line-height: 33px;
-
+  border-bottom: 2px solid #D01E23;
 }
 .countClass{
   color:#D01E23 !important;
