@@ -39,6 +39,7 @@ table, td, tr{
 	text-align: center;
 	background:#6a5e50;
 	color: #fff;
+  height: 33px;
 }
 .image{
 	-webkit-box-shadow: 0px 2px 16px -4px rgba(158,156,158,1);
