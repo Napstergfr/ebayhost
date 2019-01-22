@@ -147,7 +147,13 @@ table, td, tr{
    display: none;
 }
 .ttl{
-  
+
+}
+.gallery{
+  text-align: center;
+  border:1px solid #D01E23;
+  border-radius: 5px;
+  padding: 20px;
 }
 .all_cats{
   font-family: 'Lato', sans-serif;
