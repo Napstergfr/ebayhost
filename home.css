@@ -24,6 +24,14 @@ table, td, tr{
 }
 .v4acpcont{
     text-align: center;
+    position: relative;
+}
+.v4acpcont:after{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 35px;
+    background:#6A5E50;
 }
 .v4stabl{
 	font-weight: bold;
