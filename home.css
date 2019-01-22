@@ -42,7 +42,7 @@ table, td, tr{
   height: 33px;
 }
 .countClass{
-  color:#D01E23;
+  color:#D01E23 !important;
 }
 .image{
 	-webkit-box-shadow: 0px 2px 16px -4px rgba(158,156,158,1);
