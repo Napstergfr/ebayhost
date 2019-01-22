@@ -19,7 +19,8 @@ table, td, tr{
   padding: 30px !important;
 }
 .v4acp_head{
-  height: 45px;
+  height: 35px;
+  text-align: center;
 }
 .v4stabl{
 	font-weight: bold;
