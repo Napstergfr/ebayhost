@@ -139,13 +139,13 @@ table, td, tr{
    letter-spacing: 1px;
    border-bottom: 2px solid #D01E23 !important;
 }
-.ttl{
+/*.ttl{
    font-family: 'Lato', sans-serif;
    text-transform: uppercase;
    font-weight: bold;
    visibility: hidden;
    display: none;
-}
+}*/
 .all_cats{
   font-family: 'Lato', sans-serif;
   font-weight: bold;
