@@ -21,6 +21,7 @@ table, td, tr{
 .v4acp_head{
   height: 33px;
   text-align: center;
+  border-bottom: 2px solid #D01E23;
 }
 .v4acpcont{
     text-align: center;
@@ -42,7 +43,7 @@ table, td, tr{
 	color: #fff;
   height: 33px;
   line-height: 33px;
-  border-bottom: 2px solid #D01E23;
+
 }
 .countClass{
   color:#D01E23 !important;
@@ -136,7 +137,7 @@ table, td, tr{
   text-transform: uppercase;
   font-weight: bold;
    letter-spacing: 1px;
-   border-bottom: 2px solid #D01E23;
+   border-bottom: 2px solid #D01E23 !important;
 }
 .ttl{
    font-family: 'Lato', sans-serif;
