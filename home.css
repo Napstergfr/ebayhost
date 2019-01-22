@@ -103,7 +103,6 @@ table, td, tr{
 	width: 100%;
 	display: block;
 	background:#6a5e50;
-  position: relative !important;
   border-bottom: 5px solid #D01E23;
 }
 
