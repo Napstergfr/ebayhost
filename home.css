@@ -103,9 +103,7 @@ table, td, tr{
 	width: 100%;
 	display: block;
 	background:#6a5e50;
-  border-bottom: 5px solid #D01E23;
 }
-
 .gsp-wrapper nav ul{
 	padding: 0px;
 	margin: 0px;
@@ -308,9 +306,7 @@ img {
   height: 100%;
   z-index: 6;
   overflow: hidden;
-  position: relative;
 }
-
 .nav a {
   color: #fafafa;
   font-size: 3rem;
