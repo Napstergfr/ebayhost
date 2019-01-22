@@ -159,7 +159,9 @@ table, td, tr{
   letter-spacing: 1px;
   font-weight: bold;
 }
-
+.lev1 li a:hover{
+  color: #D01E23;
+}
 * {
   padding: 0;
   margin: 0;
