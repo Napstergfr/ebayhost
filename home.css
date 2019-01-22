@@ -15,6 +15,9 @@ table, td, tr{
 	border:none !important;
 
 }
+.v4acpcont{
+  padding: 30px;
+}
 .v4stabl{
 	font-weight: bold;
 	text-align: center;
