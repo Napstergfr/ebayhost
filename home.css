@@ -315,6 +315,7 @@ img {
   height: 5px;
   left: 0;
   background:#D01E23;
+  bottom: -5px;
 }
 .nav a {
   color: #fafafa;
