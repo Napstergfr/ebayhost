@@ -150,9 +150,7 @@ table, td, tr{
 
 }
 .gallery{
-  text-align: center;
-  border:1px solid #D01E23;
-  border-radius: 5px;
+  text-align: center !important;
   padding: 20px;
 }
 .all_cats{
