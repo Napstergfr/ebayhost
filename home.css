@@ -39,7 +39,7 @@ table, td, tr{
 	text-align: center;
 	background:#6a5e50;
 	color: #fff;
-  height: 33px;
+  padding: 15px;
 }
 .countClass{
   color:#D01E23 !important;
