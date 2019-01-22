@@ -18,6 +18,9 @@ table, td, tr{
 .v4mid{
   padding: 30px !important;
 }
+.v4acp_head{
+  height: 45px;
+}
 .v4stabl{
 	font-weight: bold;
 	text-align: center;
