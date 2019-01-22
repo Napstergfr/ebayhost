@@ -150,7 +150,9 @@ table, td, tr{
   border:4px solid #eee !important;
   padding: 20px;
 }
-
+.grid tr td{
+  border:none;
+}
 .all_cats{
   font-family: 'Lato', sans-serif;
   font-weight: bold;
