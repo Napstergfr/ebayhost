@@ -308,7 +308,7 @@ img {
   overflow: hidden;
   position: relative;
 }
-.nav:after{
+nav:after{
   position: absolute;
   content: "";
   width: 100%;
