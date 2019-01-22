@@ -33,6 +33,7 @@ table, td, tr{
     height: 33px;
     background:#6A5E50;
     left: 0;
+    border-bottom: 2px solid #D01E23;
 }
 .v4stabl{
 	font-weight: bold;
@@ -41,6 +42,7 @@ table, td, tr{
 	color: #fff;
   height: 33px;
   line-height: 33px;
+  border-bottom: 2px solid #D01E23;
 }
 .countClass{
   color:#D01E23 !important;
@@ -103,7 +105,7 @@ table, td, tr{
 	width: 100%;
 	display: block;
 	background:#6a5e50;
-  border-bottom: 5px dashed #D01E23;
+  border-bottom: 5px solid #D01E23;
 }
 .gsp-wrapper nav ul{
 	padding: 0px;
@@ -134,6 +136,7 @@ table, td, tr{
   text-transform: uppercase;
   font-weight: bold;
    letter-spacing: 1px;
+   border-bottom: 2px solid #D01E23;
 }
 .ttl{
    font-family: 'Lato', sans-serif;
@@ -395,4 +398,6 @@ marquee>a, marquee>a:hover{color:#000; text-decoration:none;}
 }
 .featured h2, .about h2, .contact h2{
   color: #fff;
+  margin-bottom: 10px;
+  border-bottom: 5px solid #D01E23;
 }
