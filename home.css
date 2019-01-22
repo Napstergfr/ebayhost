@@ -115,6 +115,7 @@ table, td, tr{
 }
 .gsp-wrapper nav ul li:hover{
 	background:#222;
+  color: #D01E23;
 }
 .gsp-wrapper nav ul li a{
 	color: #eee;
