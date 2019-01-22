@@ -149,7 +149,7 @@ table, td, tr{
 .ttl{
 
 }
-.gallery{
+.gallery, .fixed{
   text-align: center !important;
   padding: 20px;
 }
