@@ -41,6 +41,9 @@ table, td, tr{
 	color: #fff;
   height: 33px;
 }
+.countClass{
+  color:#D01E23;
+}
 .image{
 	-webkit-box-shadow: 0px 2px 16px -4px rgba(158,156,158,1);
 	-moz-box-shadow: 0px 2px 16px -4px rgba(158,156,158,1);
