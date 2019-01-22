@@ -19,7 +19,7 @@ table, td, tr{
   padding: 30px !important;
 }
 .v4acp_head{
-  height: 35px;
+  height: 33px;
   text-align: center;
 }
 .v4acpcont{
@@ -30,7 +30,7 @@ table, td, tr{
     position: absolute;
     content: "";
     width: 100%;
-    height: 35px;
+    height: 33px;
     background:#6A5E50;
     left: 0;
 }
