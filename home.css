@@ -2,7 +2,8 @@ body{
 	background: url('bg.jpg');
 	font-family: 'Lato', sans-serif;
 	padding: 5px !important;
-  position: relative;
+        position: relative;
+	display:none !important;
 }
 .gh-w, .tb_v4bc, .stBadge{
 	background:#fff;
